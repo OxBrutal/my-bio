@@ -255,7 +255,7 @@ export default function Home() {
                     </div>
                     <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
-                            href="https://www.subs4unlock.id/lfYt1W"
+                            href="https://www.subs4unlock.id/VwyjeN"
                             target="_blank"
                             rel="noopener noreferrer nofollow"
                             className="w-full transition-all sm:hover:opacity-70"
@@ -271,13 +271,13 @@ export default function Home() {
                                       title="♡"
                                       className="text-ellipsis text-[16px] text-zinc-400"
                                     >
-                                      Download Lumine-MD V6.0
+                                      Download Osaragi V1.0
                                     </span>
                                     <span
                                       title=""
                                       className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                     >
-                                      Ikuti link sampai 3x
+                                      Ikuti Intruksinya Dengan Baik...
                                     </span>
                                   </div>
                                 </div>
