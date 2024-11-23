@@ -339,6 +339,8 @@ export default function Home() {
                             </div>
                           </a>
                         </div>
+                       </div>
+                    </div>
                     <div className="flex items-center justify-center rounded-full bg-primary bg-opacity-90 text-xs font-medium text-banner"></div>
                     <div className="mb-4 flex justify-center"></div>
                   </div>
