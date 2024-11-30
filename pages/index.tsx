@@ -296,8 +296,6 @@ export default function Home() {
                             </div>
                           </a>
                          </div>
-                        </div>
-                       </div>
                       <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                           <a
                             href="https://www.subs4unlock.id/Ly5it9"
